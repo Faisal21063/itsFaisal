@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am a motivated IT graduate with a passion for DevOps practices, cloud computing, and digital marketing. My expertise includes AWS (VPS, EC2, S3), CI/CD pipeline automation with Jenkins, and version control using Git. I also have hands-on experience in WordPress website development and managing social media marketing campaigns on Google Ads and Facebook Ads.<br><br>In my WordPress projects, I have delivered optimized websites tailored to client needs, while also implementing SEO strategies to boost visibility. Additionally, I have successfully managed paid campaigns, driving higher sales and profit margins for businesses.<br><br>Currently, I am seeking opportunities in DevOps where I can contribute my knowledge of cloud platforms, automation, and agile methodologies to create efficient, scalable systems.
+
+I am a **motivated IT graduate** with a passion for **DevOps practices**, **cloud computing**, and **digital marketing**. My expertise includes **AWS** (VPS, EC2, S3), **CI/CD pipeline automation** with Jenkins, and **version control** using Git. I also have hands-on experience in **WordPress website development** and managing **social media marketing campaigns** on **Google Ads** and **Facebook Ads**.
+
+In my WordPress projects, I have delivered **optimized websites** tailored to client needs, while also implementing **SEO strategies** to boost visibility. Additionally, I have successfully managed **paid campaigns**, driving **higher sales** and **profit margins** for businesses.
+
+🌟 Currently, I am seeking opportunities in **DevOps** where I can contribute my knowledge of **cloud platforms**, **automation**, and **agile methodologies** to create efficient, scalable systems.
+
 
 
 ## 🌐 Socials:
